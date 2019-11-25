@@ -1,0 +1,1 @@
+- [idea导入新项目一直 resolving maven dependency](https://www.cnblogs.com/havenenjoy/p/9915517.html)
