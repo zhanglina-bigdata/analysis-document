@@ -17,8 +17,14 @@
 
 ##### TODO LIST
 
-- 熟悉markdown 语法
+- 熟悉markdown 语法  
 - Java lambda表达式,从菜鸟教程中联系
 - 用户信息表,邮件详情表,用户登录日志表的设计
-- maven 安装与使用,maven私服搭建(尽可能)
+- maven 安装与使用,maven私服搭建(尽可能)  nexus
 - 熟悉PD
+
+*斜体*
+
+*** 
+
+**粗体**
