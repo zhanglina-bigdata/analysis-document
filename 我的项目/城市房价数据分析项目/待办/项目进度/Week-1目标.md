@@ -1,13 +1,20 @@
 ### WEEK-1 & zhengzz
 
- 
+- 全局异常,Spring 异常处理
+- RestTemplate使用
 - Feign,Ribbon,Hystrix使用
 - RokectMQ搭建
+- AOP @Aspect使用
+- mock测试
+- [ HUTOOL框架][https://www.bookstack.cn/read/hutool/bfd2d43bcada297e.md]
+- [PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)
+- (idea mapper插件)[]
 
 - [ON DUPLICATE KEY UPDATE单个增加更新及批量增加更新的sql](https://www.cnblogs.com/zjdxr-up/p/8319982.html)
 - QueryWrapper->mybatis plus
 - BaseMapper->mybatis plus
 - MetaObjectHandler-> mybatis plus
+- IService -> mybatis plus
 - @RestControllerAdvice
     - [springboot 详解RestControllerAdvice(ControllerAdvice)](https://blog.csdn.net/qq_35098526/article/details/88949425)
 - @Validated
