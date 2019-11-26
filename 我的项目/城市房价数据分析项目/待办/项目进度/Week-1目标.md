@@ -11,6 +11,9 @@
 - @RestControllerAdvice
     - [springboot 详解RestControllerAdvice(ControllerAdvice)](https://blog.csdn.net/qq_35098526/article/details/88949425)
 - @Validated
+- redis springboot2.0d的使用方法
+
+    - [spring boot2.0使用redis](https://blog.csdn.net/zxl646801924/article/details/81095541)
 
 --- 
 ### WEEK-1 & zhangln
@@ -18,7 +21,7 @@
 ##### TODO LIST
 
 - 熟悉markdown 语法
-- Java lambda表达式,从菜鸟教程中联系
+- Java lambda表达式,从菜鸟教程中练习
 - 用户信息表,邮件详情表,用户登录日志表的设计
-- maven 安装与使用,maven私服搭建(尽可能)
+- maven 安装与使用,maven nexus私服搭建(尽可能)
 - 熟悉PD

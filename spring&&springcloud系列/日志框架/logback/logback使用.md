@@ -1,1 +1,2 @@
 - [SpringBoot使用logback示例](https://blog.csdn.net/justry_deng/article/details/81230155)
+- [Spring Boot 日志关系 与 slf4j 默认配置及其修改](https://blog.csdn.net/wangmx1993328/article/details/81043135#%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB%E5%9B%BE)
