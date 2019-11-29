@@ -26,3 +26,15 @@
     desc t_hive;
     desc formatted t_hive;  //查看表结构明细
     ```
+- 增加一个字段
+    ```hiveql
+    alter table t_hive add columns (hh string);
+    ```
+- 表重命名
+    ```hiveql
+    alter table t_hive rename to t_rename;
+    ```
+- 删除表
+    ```hiveql
+    drop table r_rename;
+    ```
