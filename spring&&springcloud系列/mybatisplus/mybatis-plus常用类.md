@@ -2,3 +2,4 @@
 - [IPage]
 - [Page]
 - [ServiceImpl]
+- [PaginationInterceptor]

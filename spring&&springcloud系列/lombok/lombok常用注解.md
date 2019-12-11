@@ -21,3 +21,4 @@
 
 - [【小家Java】Lombok的使用详解（最详尽的解释，覆盖讲解所有可用注解），解决@Builder.Default默认值问题](https://blog.csdn.net/f641385712/article/details/82081900)
 - [Lombok的使用和常用注解使用示例](https://blog.csdn.net/qq_33404395/article/details/80656654)
+- [详解Lombok中的@Builder用法](https://www.jianshu.com/p/d08e255312f9)
