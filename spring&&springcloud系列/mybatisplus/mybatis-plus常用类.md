@@ -3,3 +3,9 @@
 - [Page]
 - [ServiceImpl]
 - [PaginationInterceptor]
+
+- [SpringBoot整合MybatisPlus并实现分页查询](https://blog.csdn.net/xinxin172170185/article/details/84645735)
+- [MyBatis-Plus 的相关配置和拼接方法大全](https://blog.csdn.net/qq_32567149/article/details/80606205)
+- [Mybatis：resultMap的使用总结](https://www.cnblogs.com/kenhome/p/7764398.html)
+- [Mybatis：resultMap的使用总结](https://www.cnblogs.com/kenhome/p/7764398.html)
+- [mybatis 批量将list数据插入到数据库](https://blog.csdn.net/wsjzzcbq/article/details/81779588)
