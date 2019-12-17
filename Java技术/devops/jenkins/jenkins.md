@@ -1,0 +1,5 @@
+- [Jenkins——扫盲篇（Jenkins是什么）](https://blog.csdn.net/houyefeng/article/details/50912756)
+- [Jenkins 持续集成综合实战](https://blog.csdn.net/kefengwang/article/details/54233584)
+- [jenkins学习笔记（三）github+jenkins实现自动构建](https://blog.csdn.net/qq_23603437/article/details/82885375)
+- [Jenkins+Github持续集成](https://blog.csdn.net/gaoyi742892115/article/details/80494823)
+- [Ngrok 实现内网穿透教程（Ngrok 和 Sunny-Ngrok ）](https://blog.csdn.net/qq_33404395/article/details/80788233)
