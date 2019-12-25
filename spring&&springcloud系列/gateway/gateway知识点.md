@@ -5,4 +5,4 @@
     - config配置
     - filter包,系列过滤器
     - filter.ratelimit包限流器
-    - predicate谓
+    - predicate谓词工具
