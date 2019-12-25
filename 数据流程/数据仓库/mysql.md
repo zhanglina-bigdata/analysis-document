@@ -1,2 +1,0 @@
-- 【分库分表技术难题之分布式全局唯一id解决方案】 https://www.cnblogs.com/leeSmall/p/9471848.html
-- 【读写分离】 https://www.cnblogs.com/a-phper/p/10313967.html
