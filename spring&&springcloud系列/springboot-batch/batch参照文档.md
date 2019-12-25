@@ -1,0 +1,1 @@
+- [spring batch批量处理框架](https://www.cnblogs.com/miantiao312/p/9788002.html)
