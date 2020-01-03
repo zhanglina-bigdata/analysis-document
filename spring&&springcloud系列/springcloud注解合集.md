@@ -1,3 +1,10 @@
+** 初始化** 
+- @PostConstruct
+
+** 配置**
+- @Configuration
+- @EnableAutoConfiguration
+
 - @ControllerAdvice与@RestControllerAdvice
 -  @InitBinder 和 @ModelAttribute 
    - [springboot 详解RestControllerAdvice(ControllerAdvice)](https://blog.csdn.net/qq_35098526/article/details/88949425)
@@ -9,7 +16,7 @@
 - @EnableConfigurationProperties({CrawlerProperties.class})
 - @Import
 - @ImportResource({"classpath*:**/seimi*.xml"})
--  @EnableScheduling
+- @EnableScheduling
 **组件类**
 
 - @Component

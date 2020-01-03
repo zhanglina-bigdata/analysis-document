@@ -4,3 +4,5 @@
 - [Skywalking原理学习 -- skywalking 搭建及入门示例](https://blog.csdn.net/qq924862077/article/details/89409746)
 - [SkyWalking 分布式追踪系统](https://www.jianshu.com/p/2fd56627a3cf)
 - [java agent 详细介绍](https://segmentfault.com/a/1190000015977174)
+- [微服务网关 Spring Cloud Gateway](https://www.cnblogs.com/cjsblog/archive/2019/07/05/11099234.html)
+- [SpringCloud-网关 Gateway 入门体验](https://blog.csdn.net/sinat_25518349/article/details/86566359)

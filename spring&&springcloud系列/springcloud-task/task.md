@@ -1,0 +1,2 @@
+- [[spring cloud task]1 简介与示例](https://www.jianshu.com/p/fb2e973fb325)[重点]
+- [[Spring Cloud Task]2 生命周期特性与任务仓库数据结构](https://www.jianshu.com/p/06c5f18cf01d)

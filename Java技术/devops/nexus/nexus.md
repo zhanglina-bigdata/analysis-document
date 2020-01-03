@@ -1,0 +1,3 @@
+- [搭建Nexus私库&使用](https://blog.csdn.net/luozhonghua2014/article/details/81583510)[重点]
+- [maven私服nexus3.x环境配置](https://www.xncoding.com/2017/09/02/tool/nexus.html)[重点]
+- [exus安装和使用](https://www.cnblogs.com/grimm/p/11404862.html)[重点]

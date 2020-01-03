@@ -1,1 +1,10 @@
 - [spring batch批量处理框架](https://www.cnblogs.com/miantiao312/p/9788002.html)
+- [从头认识SpringBatch批处理框架](https://blog.csdn.net/u011659172/category_6105368.html)[重点]
+- [一篇文章全面解析大数据批处理框架Spring Batch](https://blog.csdn.net/xudawenfighting/article/details/80127425)[重点]
+- [史上最轻松入门之Spring Batch - 轻量级批处理框架实践](https://segmentfault.com/a/1190000020853013?utm_source=tag-newest)[重点]
+- [SpringBoot之Spring Batch的支持](https://blog.csdn.net/smartdt/article/details/78962814)[重点]
+- [spring batch教程 之 配置并运行Job](https://blog.csdn.net/github_36849773/article/details/66968461)[重点]
+- [Spring Batch简单入门（四） - Job启动与监控](https://blog.csdn.net/kangkanglou/article/details/82627799)[重点]
+- [Spring Batch简单入门（三）- ItemReader 与 ItemWriter](https://blog.csdn.net/kangkanglou/article/details/82623599)[重点]
+- [批处理框架spring batch基础知识介绍](https://blog.csdn.net/topdeveloperr/article/details/84337956#spring%20batch%E7%AE%80%E4%BB%8B)[重点]
+- [spring batch批量处理框架](https://www.cnblogs.com/miantiao312/p/9788002.html)[重点]

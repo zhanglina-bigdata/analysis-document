@@ -2,3 +2,5 @@
 - [PowerMock从入门到放弃再到使用](https://blog.csdn.net/zero__007/article/details/80203479)
 - [Powermock学习之基本用法](https://blog.csdn.net/qq_36688928/article/details/84589256)
 - <font color="red">[mybatis-plus 的一种很别扭的用法](https://segmentfault.com/a/1190000018509814?utm_source=tag-newest)</font>
+- [java单元测试之junit之实战](https://blog.csdn.net/qingtian_1993/article/details/79491534)[重点]
+- [【TestNG】TestNG使用教程详解](https://blog.csdn.net/df0128/article/details/83243822)[重点]

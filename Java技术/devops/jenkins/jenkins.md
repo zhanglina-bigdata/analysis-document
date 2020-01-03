@@ -3,3 +3,8 @@
 - [jenkins学习笔记（三）github+jenkins实现自动构建](https://blog.csdn.net/qq_23603437/article/details/82885375)
 - [Jenkins+Github持续集成](https://blog.csdn.net/gaoyi742892115/article/details/80494823)
 - [Ngrok 实现内网穿透教程（Ngrok 和 Sunny-Ngrok ）](https://blog.csdn.net/qq_33404395/article/details/80788233)
+- [持续集成高级篇之Jenkins参数化构建(二)](https://www.cnblogs.com/tylerzhou/p/11427566.html)[重点]
+- [Jenkins与Github集成](https://www.cnblogs.com/xuzhongtao/p/11097348.html)[重点]
+- [Jenkins插件]
+    - Extended Choice Parameter
+    - Git Parameter
