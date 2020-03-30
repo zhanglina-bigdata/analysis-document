@@ -97,4 +97,6 @@
         ```hiveql
         create external table t_ext_table(a int ,b int ,c int ) row format delimited fields terminated by '\t';
         ```
-      
+       ```hiveql
+        
+        ```
